@@ -24,8 +24,7 @@ Key components of the program include:
 - **Web Development** using React and Next.js
 - **Tailwind CSS** for utility-first styling
 - **TypeScript** for type-safe, scalable JavaScript development
-- **GraphQL** for structured and efficient data querying
-- **RESTful API Integration** for frontend-backend communication
+- **DummyJson** for backend 
 - **Version Control** using Git and GitHub
 
 ---
