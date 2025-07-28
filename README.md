@@ -22,9 +22,12 @@ Key components of the program include:
 ### 🧩 Key Technologies Covered
 
 - **Web Development** using React and Next.js
+- **Mobile Development** with React Native & Expo
+- **Progressive Web Apps (PWA)** for installable, offline-capable web applications
 - **Tailwind CSS** for utility-first styling
 - **TypeScript** for type-safe, scalable JavaScript development
-- **DummyJson** for backend 
+- **GraphQL** for structured and efficient data querying
+- **RESTful API Integration** for frontend-backend communication
 - **Version Control** using Git and GitHub
 
 ---
